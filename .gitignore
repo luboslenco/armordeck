@@ -1,0 +1,8 @@
+*.DS_Store
+*.blend1
+*.old
+esp32/.vscode
+esp32/build
+simulator/build
+simulator/Deployment/*.frag
+simulator/Deployment/*.vert
